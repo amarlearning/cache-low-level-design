@@ -1,6 +1,6 @@
 # Cache - Low Level System Design
 
-### Class Diagram for low level system design of a cache
+###### Class Diagram for low level system design of a cache
 
 ![cache image](./cache-low-level-design.png)
 
