@@ -2,7 +2,7 @@
 
 ###### Class Diagram for low level system design of a cache
 
-![cache image](./cache-low-level-design.png)
+![cache image](./class%20diagram/cache-low-level-design.png)
 
 ### Problem Statement
 
